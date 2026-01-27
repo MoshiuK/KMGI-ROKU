@@ -2,7 +2,27 @@
   "providerName": "KMGI",
   "language": "en-US",
   "lastUpdated": "2026-01-26T00:00:00Z",
-  "movies": []
+  "movies": [
+    {
+      "id": "kmgi-test-001",
+      "title": "KMGI Test Video",
+      "shortDescription": "Test playback on Roku",
+      "longDescription": "Single test item to validate Roku playback from Vimeo.",
+      "releaseDate": "2026-01-26",
+      "genres": ["Education"],
+      "tags": ["test"],
+      "thumbnail": "YOUR_THUMBNAIL_URL",
+      "content": {
+        "dateAdded": "2026-01-26",
+        "duration": 600,
+        "videos": [
+          {
+            "url": "YOUR_VIMEO_DIRECT_MP4_OR_HLS_URL",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    }
+  ]
 }
-
-
