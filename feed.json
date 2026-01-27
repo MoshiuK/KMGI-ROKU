@@ -11,13 +11,13 @@
       "releaseDate": "2026-01-26",
       "genres": ["Education"],
       "tags": ["test"],
-      "thumbnail": "YOUR_THUMBNAIL_URL",
+      "thumbnail": "PASTE_THUMBNAIL_URL_HERE",
       "content": {
         "dateAdded": "2026-01-26",
         "duration": 600,
         "videos": [
           {
-            "url": "YOUR_VIMEO_DIRECT_MP4_OR_HLS_URL",
+            "url": "PASTE_VIMEO_DIRECT_VIDEO_URL_HERE",
             "quality": "HD",
             "videoType": "MP4"
           }
