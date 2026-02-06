@@ -1,7 +1,7 @@
 {
   "providerName": "Knox Media Group",
   "language": "en",
-  "lastUpdated": "2026-02-05T02:01:53Z",
+  "lastUpdated": "2026-02-06T02:01:51Z",
   "shortFormVideos": [
     {
       "id": "vimeo-1149009827",
@@ -36555,11 +36555,7 @@
       ],
       "genres": [
         "special"
-      ],
-      "rating": {
-        "rating": "TV-G",
-        "ratingSource": "USA_TV"
-      }
+      ]
     },
     {
       "id": "vimeo-820619869",
