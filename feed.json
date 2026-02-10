@@ -1,7 +1,7 @@
 {
   "providerName": "Knox Media Group",
   "language": "en",
-  "lastUpdated": "2026-02-06T02:01:51Z",
+  "lastUpdated": "2026-02-10T02:01:56Z",
   "shortFormVideos": [
     {
       "id": "vimeo-1149009827",
@@ -36555,7 +36555,11 @@
       ],
       "genres": [
         "special"
-      ]
+      ],
+      "rating": {
+        "rating": "TV-G",
+        "ratingSource": "USA_TV"
+      }
     },
     {
       "id": "vimeo-820619869",
@@ -46988,13 +46992,13 @@
       "shortDescription": "Celebrating the Life of Nancy Darby Loveless",
       "longDescription": "Celebrating the Life of Nancy Darby Loveless",
       "releaseDate": "2021-01-23",
-      "thumbnail": "https://i.vimeocdn.com/video/1042643303-c939dc1c9492b8a0219d4bacd4db64f7825b974c183110b0de637001938544c4-d_960x540?&r=pad&region=us",
+      "thumbnail": "https://i.vimeocdn.com/video/1042643303-c939dc1c9492b8a0219d4bacd4db64f7825b974c183110b0de637001938544c4-d_1920x1080?&r=pad&region=us",
       "content": {
         "dateAdded": "2021-01-23T22:37:15Z",
         "duration": 2375,
         "videos": [
           {
-            "url": "https://player.vimeo.com/external/503916304.m3u8",
+            "url": "https://kmgi-roku-proxy.moshiu.workers.dev/play/503916304",
             "quality": "HD",
             "videoType": "HLS"
           }
@@ -47005,7 +47009,11 @@
       ],
       "genres": [
         "special"
-      ]
+      ],
+      "rating": {
+        "rating": "TV-G",
+        "ratingSource": "USA_TV"
+      }
     },
     {
       "id": "vimeo-503708604",
