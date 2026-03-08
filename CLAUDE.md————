@@ -1,0 +1,14 @@
+# CLAUDE.md — KMGI-ROKU
+
+## Project
+KMGI Roku channel — Python scripts for Roku search feed data management.
+
+## Tech Stack
+Python, JSON feeds, GitHub Pages deployment
+
+## Structure
+- `convert_to_search_feed.py` — Feed conversion scripts
+- - `*.json` — Feed data files
+ 
+  - ## Related
+  - Knox-Media-Group/KMGI, Hub: github.com/MoshiuK/kmgi-hub
